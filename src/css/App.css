@@ -5,7 +5,7 @@
 	z-index: 0;
 }
 
-html,body { 
+html{ 
 	background: url(https://media.giphy.com/media/SZ59wzAQnCzlu/giphy.gif) no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -13,12 +13,8 @@ html,body {
 	background-size: cover;
 	height: 100%;
     overflow: hidden;
-}
-		
-body{
 	background-color: #62d9fb;
 	font-family: 'Open Sans', sans-serif;
-	height: 100%;
 }
 .bg{
 	background: url("https://media.giphy.com/media/SZ59wzAQnCzlu/giphy.gif") center no-repeat;
