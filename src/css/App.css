@@ -11,6 +11,8 @@ html,body {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	height: 100%;
+    overflow: hidden;
 }
 		
 body{
@@ -55,8 +57,8 @@ a{
 	text-decoration: none;
 	color: #fff;
 }
-a:nth-child(2){
-	flex: 
+i{
+	height: 100%;
 }
 h1{
 	font-family: san-serif;
