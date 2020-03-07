@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kipsaiya/static/css/main.4fbc10c4.chunk.css",
+    "main.js": "/kipsaiya/static/js/main.cbb7e6ff.chunk.js",
+    "main.js.map": "/kipsaiya/static/js/main.cbb7e6ff.chunk.js.map",
+    "runtime-main.js": "/kipsaiya/static/js/runtime-main.ddd835d3.js",
+    "runtime-main.js.map": "/kipsaiya/static/js/runtime-main.ddd835d3.js.map",
+    "static/js/2.0a42cd93.chunk.js": "/kipsaiya/static/js/2.0a42cd93.chunk.js",
+    "static/js/2.0a42cd93.chunk.js.map": "/kipsaiya/static/js/2.0a42cd93.chunk.js.map",
+    "index.html": "/kipsaiya/index.html",
+    "precache-manifest.bb36c66ef54f3e873121bc8f615d9800.js": "/kipsaiya/precache-manifest.bb36c66ef54f3e873121bc8f615d9800.js",
+    "service-worker.js": "/kipsaiya/service-worker.js",
+    "static/css/main.4fbc10c4.chunk.css.map": "/kipsaiya/static/css/main.4fbc10c4.chunk.css.map",
+    "static/js/2.0a42cd93.chunk.js.LICENSE.txt": "/kipsaiya/static/js/2.0a42cd93.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/kipsaiya/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddd835d3.js",
+    "static/js/2.0a42cd93.chunk.js",
+    "static/css/main.4fbc10c4.chunk.css",
+    "static/js/main.cbb7e6ff.chunk.js"
+  ]
+}
