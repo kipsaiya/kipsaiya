@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kipsaiya/static/css/main.4fbc10c4.chunk.css",
-    "main.js": "/kipsaiya/static/js/main.cbb7e6ff.chunk.js",
-    "main.js.map": "/kipsaiya/static/js/main.cbb7e6ff.chunk.js.map",
+    "main.js": "/kipsaiya/static/js/main.38be716a.chunk.js",
+    "main.js.map": "/kipsaiya/static/js/main.38be716a.chunk.js.map",
     "runtime-main.js": "/kipsaiya/static/js/runtime-main.ddd835d3.js",
     "runtime-main.js.map": "/kipsaiya/static/js/runtime-main.ddd835d3.js.map",
     "static/js/2.0a42cd93.chunk.js": "/kipsaiya/static/js/2.0a42cd93.chunk.js",
     "static/js/2.0a42cd93.chunk.js.map": "/kipsaiya/static/js/2.0a42cd93.chunk.js.map",
     "index.html": "/kipsaiya/index.html",
-    "precache-manifest.71654de9da93dc1cf935f22654bac0a9.js": "/kipsaiya/precache-manifest.71654de9da93dc1cf935f22654bac0a9.js",
+    "precache-manifest.1ec8a1adb9012c1202c4087eb94a092c.js": "/kipsaiya/precache-manifest.1ec8a1adb9012c1202c4087eb94a092c.js",
     "service-worker.js": "/kipsaiya/service-worker.js",
     "static/css/main.4fbc10c4.chunk.css.map": "/kipsaiya/static/css/main.4fbc10c4.chunk.css.map",
     "static/js/2.0a42cd93.chunk.js.LICENSE.txt": "/kipsaiya/static/js/2.0a42cd93.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.ddd835d3.js",
     "static/js/2.0a42cd93.chunk.js",
     "static/css/main.4fbc10c4.chunk.css",
-    "static/js/main.cbb7e6ff.chunk.js"
+    "static/js/main.38be716a.chunk.js"
   ]
 }
