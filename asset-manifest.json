@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/kipsaiya/static/css/main.4fbc10c4.chunk.css",
-    "main.js": "/kipsaiya/static/js/main.38be716a.chunk.js",
-    "main.js.map": "/kipsaiya/static/js/main.38be716a.chunk.js.map",
+    "main.css": "/kipsaiya/static/css/main.f2e31c29.chunk.css",
+    "main.js": "/kipsaiya/static/js/main.b44d14ee.chunk.js",
+    "main.js.map": "/kipsaiya/static/js/main.b44d14ee.chunk.js.map",
     "runtime-main.js": "/kipsaiya/static/js/runtime-main.ddd835d3.js",
     "runtime-main.js.map": "/kipsaiya/static/js/runtime-main.ddd835d3.js.map",
     "static/js/2.0a42cd93.chunk.js": "/kipsaiya/static/js/2.0a42cd93.chunk.js",
     "static/js/2.0a42cd93.chunk.js.map": "/kipsaiya/static/js/2.0a42cd93.chunk.js.map",
     "index.html": "/kipsaiya/index.html",
-    "precache-manifest.1ec8a1adb9012c1202c4087eb94a092c.js": "/kipsaiya/precache-manifest.1ec8a1adb9012c1202c4087eb94a092c.js",
+    "precache-manifest.3d601ed3726918dbaff2266dab3f1851.js": "/kipsaiya/precache-manifest.3d601ed3726918dbaff2266dab3f1851.js",
     "service-worker.js": "/kipsaiya/service-worker.js",
-    "static/css/main.4fbc10c4.chunk.css.map": "/kipsaiya/static/css/main.4fbc10c4.chunk.css.map",
-    "static/js/2.0a42cd93.chunk.js.LICENSE.txt": "/kipsaiya/static/js/2.0a42cd93.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/kipsaiya/static/media/logo.ee7cd8ed.svg"
+    "static/css/main.f2e31c29.chunk.css.map": "/kipsaiya/static/css/main.f2e31c29.chunk.css.map",
+    "static/js/2.0a42cd93.chunk.js.LICENSE.txt": "/kipsaiya/static/js/2.0a42cd93.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ddd835d3.js",
     "static/js/2.0a42cd93.chunk.js",
-    "static/css/main.4fbc10c4.chunk.css",
-    "static/js/main.38be716a.chunk.js"
+    "static/css/main.f2e31c29.chunk.css",
+    "static/js/main.b44d14ee.chunk.js"
   ]
 }
