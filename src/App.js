@@ -1,6 +1,6 @@
 import React from 'react';
-import logo from './logo.svg';
 import './css/App.css';
+
 function Footer(){
 	return(
 		<div className="footer">
@@ -11,9 +11,6 @@ function Footer(){
 	)
 }
 class Information extends React.Component{
-	constructor(props){
-		super(props);
-	}
 	render(){
 		return(
 			<div id="information" className="information">
@@ -23,9 +20,6 @@ class Information extends React.Component{
 	}
 }
 class App extends React.Component {
-	constructor(props){
-		super(props);
-	}
 	render(){
 		return (
 			<div>

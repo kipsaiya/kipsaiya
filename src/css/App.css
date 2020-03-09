@@ -13,8 +13,9 @@ html{
 	background-size: cover;
 	height: 100%;
     overflow: hidden;
-	background-color: #62d9fb;
+	background-color: inherit !important;
 	font-family: 'Open Sans', sans-serif;
+	color: black;
 }
 .bg{
 	background: url("https://media.giphy.com/media/SZ59wzAQnCzlu/giphy.gif") center no-repeat;
