@@ -30,7 +30,6 @@ class App extends React.Component {
 					<a href="#information">Kipsaiya</a>
 				</div>
 				<Information />
-				<Auth />
 				<Footer />
 			</div>
 		);
