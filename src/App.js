@@ -1,6 +1,6 @@
 import React from 'react';
 import './css/App.css';
-
+import Auth from './utils/Auth';
 function Footer(){
 	return(
 		<div className="footer">
@@ -30,6 +30,7 @@ class App extends React.Component {
 					<a href="#information">Kipsaiya</a>
 				</div>
 				<Information />
+				<Auth />
 				<Footer />
 			</div>
 		);
