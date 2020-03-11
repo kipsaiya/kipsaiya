@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f11ad496342c3ade89c460138ab0beb3",
+    "revision": "428dd5aaa1bddf8d2e00a57eab00b179",
     "url": "/kipsaiya/index.html"
   },
   {
-    "revision": "ff5f2c4b61bd3bbc76f8",
+    "revision": "b9ed33b2d00a356631c9",
     "url": "/kipsaiya/static/css/main.8cb3c0c2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kipsaiya/static/js/2.0a42cd93.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ff5f2c4b61bd3bbc76f8",
-    "url": "/kipsaiya/static/js/main.6d64ad0f.chunk.js"
+    "revision": "b9ed33b2d00a356631c9",
+    "url": "/kipsaiya/static/js/main.53347a60.chunk.js"
   },
   {
     "revision": "5c5cef64bb2e4419a8ab",
