@@ -64,10 +64,19 @@ img{
 	width: 100%;
 }
 .information{
+	position: relative;
+	width: 100%;
+	margin-top: 66px;
 	display: flex;
-	flex-direction: row;
 	align-items: center;
-	justify-content: space-around;
+	justify-content: center;
+	resize: both;
+}
+.tag-line{
+	font-size: 7rem;
+	color: #fff;
+	font-weight: bold;
+	text-align: center;
 }
 .footer{
 	display: flex;
@@ -83,13 +92,6 @@ img{
 	-moz-box-shadow: -5px -5px 5px 5px #888;
 	-webkit-box-shadow: -5px -5px 5px 5px#888;
 	box-shadow: -5px -5px 5px 5px #888;
-	
-}
-
-@media only screen and (max-width : 640px){
-	h1{
-		/*letter-spacing: normal;*/
-	}
 	
 }
 .signup, .signin{
